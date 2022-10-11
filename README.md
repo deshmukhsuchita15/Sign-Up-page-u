@@ -4,9 +4,9 @@
         <title>Sign Up Form</title>
     </head>
         <body>
-            
             <h1>Sign Up Now</h1>
             <form>
+            <!-- Table content -->
                 <table>
                     <tr><td>Name:</td>
                         <td><input type="text" Name="" placeholder="First Name"></td>
